@@ -1,0 +1,19 @@
+{
+  "name": "burhan-validate-phone-number",
+  "version": "1.0.0",
+  "description": "Phone number validation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanbulut/phone-number-validate-npm-package.git"
+  },
+  "author": "burhanbulut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burhanbulut/phone-number-validate-npm-package/issues"
+  },
+  "homepage": "https://github.com/burhanbulut/phone-number-validate-npm-package#readme"
+}
